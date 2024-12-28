@@ -3,3 +3,4 @@ local BasketballLegendsGameId = 14259168147
 
 if gameId == BasketballLegends then
 
+loadstring(game:HttpGet("https://pastebin.com/raw/m7Hu1G9w"))()
